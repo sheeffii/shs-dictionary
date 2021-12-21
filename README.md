@@ -1,0 +1,1 @@
+# shs-dictionary
